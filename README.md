@@ -1,8 +1,8 @@
 # RanQuestions
 Download URL: https://drive.google.com/file/d/1wCvlM82LAaJmWnZ3WLiXRA-Y9mMQlH9-/view?usp=sharing  
 
-This is a truth-telling game software made with unity.   
-这是一个用unity做的真心话游戏软件。  
+This is a truth-telling game software made with Unity.   
+这是一个用Unity做的真心话游戏软件。  
 ユニティで作った「内緒話」ゲームです。  
 
 The quesions almostly writed in Chinese for ice-breaking in my parties.  
