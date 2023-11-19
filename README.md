@@ -1,14 +1,22 @@
-# RanQuestions
-Download URL: https://drive.google.com/file/d/1wCvlM82LAaJmWnZ3WLiXRA-Y9mMQlH9-/view?usp=sharing  
+# RanQuestions 
+## At the begining/写在开始/はじめに
+Due to the large size of the Asset resource package and copyright, only the C# script is provided here. To play the game, please click the release button to download. →  
 
+由于Asset资源包巨大以及版权问题，仅提供C#的脚本。试玩请点击release按钮下载。→  
+
+Assetのリソースパッケージが非常に大きく、著作権を守るためC#スクリプトのみ提供。ゲームをプレイするには、releaseボタンでダウンロードしてください。→  
+
+## As a game/游戏/ゲーム
 This is a truth-telling game software made with Unity.   
 这是一个用Unity做的真心话游戏软件。  
 ユニティで作った「内緒話」ゲームです。  
 
+## Profile/简介/プロフィール
 The quesions almostly writed in Chinese for ice-breaking in my parties.  
 问题主要用中文写成，目的是为了派对破冰。  
 私のパーティーでのアイスブレイクのために、質問は主に中国語で書かれました。  
 
+## Q&A
 Q：为什么不直接用真心话大冒险的APP和问题集？  
 A：问题集涉及个人隐私题居多。没破冰就玩会显得尴尬。过于深刻，于无聊的问题居多。  
 
