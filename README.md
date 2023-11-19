@@ -1,4 +1,5 @@
 # RanQuestions 
+![RanQues](https://github.com/HAYATE0578/RanQuestions/assets/78299959/9f80e2ca-42cd-4c16-a3a4-687584a48493)
 ## At the begining/写在开始/はじめに
 Due to the large size of the Asset resource package and copyright, only the C# script is provided here. To play the game, please click the release button to download. →  
 
